@@ -1,4 +1,4 @@
-I'm Isaac Newcomb (@isaacdnew). I love to design things and make music. My github has various projects from over the years — check them out!
+I'm Isaac Newcomb (@isaacdnew). I love to design things and make music. My github has various projects from over the years—check them out!
 
 <!---
 isaacdnew/isaacdnew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
